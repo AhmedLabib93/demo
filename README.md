@@ -46,3 +46,7 @@ Alternatively you can use the [Spring Boot Maven plugin](https://docs.spring.io/
 mvn spring-boot:run
 ```
 
+## Testing the application
+
+All required end-points for testing can be found here(http://localhost:8080/swagger-ui/index.html)
+please make sure to run the project locally in order to view the APIs.
